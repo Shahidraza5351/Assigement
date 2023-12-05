@@ -1,0 +1,3 @@
+Our last session of endeavour was about Version control System.
+In that session we lerned about version control like What is version control, How it works.
+We also learned about git commands, and in the next sessions we did practical also.
